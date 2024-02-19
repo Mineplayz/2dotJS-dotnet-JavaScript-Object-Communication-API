@@ -1,4 +1,5 @@
-
+namespace Mineplayz.dotJS
+{
 class DTO
 {
     Dictionary<string, string> points = new Dictionary<string, string>();
@@ -54,4 +55,5 @@ class DTO
             return "";
         return r.Remove(0, 1);
     }
+}
 }

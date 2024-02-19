@@ -1,4 +1,4 @@
-# dotnet-JavaScript-Object-Communication-API
+# dotJS-dotnet-JavaScript-Object-Communication-API
 A framework for communication between c# (dotnet) and JavaScript websites, using a common data transfer object.
 Example:
 Send new Data Transfer Object in JavaScript:
